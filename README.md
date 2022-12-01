@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milacoderbegginer
-- 👀 I’m interested in expermiental design, conceptual art, pscyhology of space
-- 🌱 I’m currently learning blender, sql, html
-- 💞️ I’m looking to collaborate on simple art/pscyhology projects
+- 👀 I’m interested in expermiental design, conceptual art, neurobiology/urbanism
+- 🌱 I’m currently learning blender, sql, html, graphic design
+- 💞️ I’m looking to collaborate on anthropological/cultural projects combined with art and tehcnology
 - 📫 How to reach me milka.julia@gmail.com
 
 <!---
